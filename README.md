@@ -5,10 +5,10 @@
 
 ## 🛠 使用環境・ツール
 
-- OS：Windows 10 / 11
+- OS：Windows 11
 - エディタ：Visual Studio Code
 - 実行環境：Live Server、ブラウザ（Chromeなど）
-- バージョン管理：Git / GitHub（手動＋GitHub Desktop）
+- バージョン管理：Git / GitHub
 
 ---
 
